@@ -21,3 +21,11 @@ In the second step I will show you how to put images in the markdown
 I will give a code example to use in markdown
 !-->
 ```the "title tag serves to give title to the page / browser```
+
+<!--STEP 4 : List Task
+!-->
+# To-do list example
+[X] homework
+[x] wash the house
+[x]practice on computer
+[ ] to sleep
