@@ -25,7 +25,7 @@ I will give a code example to use in markdown
 <!--STEP 4 : List Task
 !-->
 # To-do list example
-[X] homework
-[x] wash the house
-[x]practice on computer
-[ ] to sleep
+[X] homework complet
+[x] wash the house complet
+[x]practice on computer complet
+[ ] to sleep 
